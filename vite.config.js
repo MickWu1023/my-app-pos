@@ -17,7 +17,7 @@ const manifest = {
         },
         handler : "CacheFirst" ,
         options :{
-          cacheName : "POS SYSTEM",
+          cacheName : "POS-SYSTEM-Cache",
           cacheableResponse :{
             statuses: [0,200]
           }
