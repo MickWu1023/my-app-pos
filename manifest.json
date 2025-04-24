@@ -3,12 +3,13 @@
     "name": "MDN Web Docs",
     "icons": [
       {
-        "src": "/Bird_512x512.png",
+        "src": "/my-app-pos/Icon_Bird_512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
     ],
-    "start_url": ".",
+    "start_url": "/my-app-pos/", 
+    "scope": "/my-app-pos/", 
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"
