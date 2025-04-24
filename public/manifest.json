@@ -1,0 +1,16 @@
+{
+    "short_name": "MDN",
+    "name": "MDN Web Docs",
+    "icons": [
+      {
+        "src": "/my-app-pos/Bird_512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/my-app-pos/", 
+    "scope": "/my-app-pos/", 
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
