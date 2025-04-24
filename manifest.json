@@ -3,7 +3,7 @@
     "name": "MDN Web Docs",
     "icons": [
       {
-        "src": "/my-app-pos/Icon_Bird_512x512.png",
+        "src": "/my-app-pos/Bird_512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
